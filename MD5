@@ -1,0 +1,15 @@
+6fe247ff02b2ca9bc06e5ea22d84d66a *DESCRIPTION
+72502c867828a28951f93f02f7d0ff5a *NAMESPACE
+c911f67cbb87b4c5c17c1bc051ccc554 *NEWS.md
+5ad9d7da97bda346a0bd2330eeed940a *R/fetch_facebookads.R
+1bfc9cde8f5514f35f69f802251a9efb *R/my_facebookads_data.R
+3fb5f577f1c499375089a01013ecc07a *README.md
+77001896a77d1cb481ff42b2a5411b1a *build/vignette.rds
+b1a98c8983320ed145420cf884fb82ee *data/my_facebookads_data.RData
+de3bd96a25f2708656bcd24c43467ed6 *inst/doc/tutorial.R
+fa250893b696ae1131be6485e2c40e64 *inst/doc/tutorial.Rmd
+ce22f1b87b1aa23e550965a87c01f4af *inst/doc/tutorial.html
+7af8be2b9f678d669cf2173df83e4f91 *man/fetch_facebookads.Rd
+346b653982b3476ecb58333702167032 *man/my_facebookads_data.Rd
+b1a98c8983320ed145420cf884fb82ee *vignettes/my_facebookads_data.RData
+fa250893b696ae1131be6485e2c40e64 *vignettes/tutorial.Rmd
